@@ -1,0 +1,19 @@
+{
+  "name": "routerz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "axios": "^0.27.2",
+    "chalk": "^2.4.0",
+    "form-data": "^4.0.0",
+    "loadsh": "^0.0.4"
+  }
+}
